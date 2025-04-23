@@ -1,0 +1,129 @@
+body{
+    background-color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common{
+    /* background-color: #cccccc; */
+    /* border: 2px solid white; */
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 40px;
+    z-index: 2;
+    background-color: royalblue;
+    text-align: center;
+}
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 39px;
+    z-index: 1;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.mainbody{
+    top: 54px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+    font-size: x-large;
+}
+
+.rightmenu{
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    bottom: 39px;
+    padding-left: 5px;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    padding-top: 15px;
+    position: fixed;
+}
+.header-words{
+    text-align: center;
+}
+a{color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: 28px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color: royalblue;
+}
+li{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: normal;
+}
+a{color: black;
+text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+/* a:visited{
+    color: blue;
+} */
+.ResumeListHeaders{
+    font-weight: bold;
+    font-style: normal;
+}
+.underline{text-decoration: underline;}
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+.center{text-align: center;}
+
+.atag{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    text-align: left;
+}
+.acenter{
+    text-align: center;
+}
+
+.wiki{
+    font-size: 16px;
+}
+
+
+/* I did not like the look of having those random demonstraion paragraphs on my page so i followed along and 
+then just commented them out on both this page and the aboutme.html page */
+
+/* .box1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+}
+.box2{
+    padding: 5px;
+}
+.box3{
+    margin: 50px;
+} */
